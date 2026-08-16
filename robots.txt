@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://about.yum707.com/sitemap.xml
